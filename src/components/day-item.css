@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Inspiration:400,700');
+
+.day-conteiner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+  
+.day-title {
+    width: fit-content;
+}
+  
+.day-time {
+    width: fit-content;
+
+}
+.vector-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%; /* Set to the desired width or full width */
+    height: 100%; /* Set to the desired height or full height */
+}
+.vector {
+    width: 100%; /* Fill the width of the container */
+  height: 100%; /* Fill the height of the container */
+}
+
+
+  
+.day-description-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+    width: 173px;
+}
+
+.gradus { 
+    align-self: stretch;
+  color: #000000;
+  margin-top: -1px;
+  position: relative;
+}
+
+.description {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+    width: inherit; 
+
+}
+
+
+.body1 {
+    font-family: Inter;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.subhead2-beauty {
+    font-family: Inspiration, sans-serif;
+    font-size: 2.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.location-container {
+    display: flex;
+    width: 10.8125rem;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.location { 
+    flex: 1 0 0;
+}
+
+.body2 {
+    font-family: Inter;
+    font-size: 0.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

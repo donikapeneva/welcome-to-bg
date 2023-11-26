@@ -1,0 +1,25 @@
+.location {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    position: relative;
+    width: 173px;
+  }
+  
+  .location .pin-alt-light {
+    height: 14px;
+    position: relative;
+    width: 14px;
+  }
+  
+  .location .text-wrapper {
+    color: #000000;
+    flex: 1;
+    font-family: var(--body-2-font-family);
+    font-size: var(--body-2-font-size);
+    font-style: var(--body-2-font-style);
+    font-weight: var(--body-2-font-weight);
+    letter-spacing: var(--body-2-letter-spacing);
+    line-height: var(--body-2-line-height);
+    position: relative;
+  }
