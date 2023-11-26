@@ -23,7 +23,7 @@ export const plan = [
         description: "Today, you'll step into our world of work. Discover where we create, collaborate, and innovate. After exploring our workspace, we'll gather for a delightful dinner — a perfect chance to bond and share stories with the team",
         location: {
             href: 'https://maps.app.goo.gl/ghF9eNRj6d5qCoDPA',
-            title: 'Tintyava 15-17, Dreamix office'
+            title: 'Tintyava 15-17, Dreamix'
         }
     },
     

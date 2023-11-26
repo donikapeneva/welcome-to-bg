@@ -15,11 +15,11 @@
   .location .text-wrapper {
     color: #000000;
     flex: 1;
-    font-family: var(--body-2-font-family);
-    font-size: var(--body-2-font-size);
-    font-style: var(--body-2-font-style);
-    font-weight: var(--body-2-font-weight);
-    letter-spacing: var(--body-2-letter-spacing);
-    line-height: var(--body-2-line-height);
+    font-family: var(--body-1-font-family);
+    font-size: var(--body-1-font-size);
+    font-style: var(--body-1-font-style);
+    font-weight: var(--body-1-font-weight);
+    letter-spacing: var(--body-1-letter-spacing);
+    line-height: var(--body-1-line-height);
     position: relative;
   }
