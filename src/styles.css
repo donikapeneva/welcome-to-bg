@@ -22,7 +22,7 @@ body {
     display: flex;
     padding: 1rem;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 0.625rem;
     flex: 1 0 0;
     align-self: stretch;
